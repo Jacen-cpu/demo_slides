@@ -41,7 +41,7 @@ body {
   font-weight: inherit; }
 
 .reveal .slide-background-content {
-  background-image: url("../lib/pattern.svg");
+  background-image: url("../../assets/pattern.svg");
 }
 
 /*********************************************
